@@ -1,0 +1,14 @@
+* {
+    min-height: 2em;
+    min-width: 2em;
+    background-color: black;
+}
+#wrapper {
+    border: 1px dotted red;
+}
+header, footer, #main {
+    border: 1px dotted orange;
+}
+#headerTop, nav, .mainContent, footer p {
+    border: 1px dotted yellow;
+}

@@ -12,6 +12,11 @@ $(document).ready(function(){
         $(this).css("background-color", `rgb(${color})`)
     })
     $('.widthChanger').click(function(){
-        $(this).css("width", `${getRandomInt(100)}%`)
+        var width = getRandomInt(100)
+        console.log(width)
+        $(this).css("width", `${width}%`)
     })
 })
+// Math.ceil rounds the returned decimal number up
+// Math.floor rounds down the returned decimal
+// Math.random always returns a decimal from 0-.9 for example
