@@ -1,0 +1,21 @@
+* {
+    background-color: #483d8b;
+    color: burlywood;
+    background-image: url('../images/robots.png');
+}
+button {
+    font-size: 1.5em;
+}
+#showImg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    max-width: 250px;
+    margin: 1em;
+}
+h3 {
+    font-size: 1.3em;
+}
