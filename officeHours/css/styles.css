@@ -1,7 +1,9 @@
-* {
+
+body {
     background-color: #483d8b;
     color: burlywood;
     background-image: url('../images/robots.png');
+    padding: 2em;
 }
 button {
     font-size: 1.5em;
