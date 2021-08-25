@@ -42,3 +42,7 @@ A = means that you have done git add for said file but have not committed yet
 
 
 Repo https://github.com/WF-InstructorMelissa/mergeConflict
+
+
+
+Adding more content
